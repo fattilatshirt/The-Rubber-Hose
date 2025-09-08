@@ -1,0 +1,6 @@
+discord.py
+asyncio
+typing-extensions
+logging
+random2
+time
