@@ -356,7 +356,7 @@ async def start_cleanup_prefix(ctx, invite_link: str = None):
 # Slash commands handle their own errors, so we don't need the old error handler
 
 if __name__ == "__main__":
-    TOKEN = "MTQxNDUzODM5Mzc0Mzc4NjA4NQ.GUteRT.T88TJKrEnXxY47wzLxFAeyYjPgA9ttzw8pe7Ng"  # Replace with your actual bot token
+    TOKEN = "MTQxNDUzODM5Mzc0Mzc4NjA4NQ.GfdO16.UJ5UdtSOTpJcGMfXynVAvA2gCwvmW9m1vnfLmU"  # Replace with your actual bot token
 
     try:
         bot.run(TOKEN)
